@@ -7,7 +7,8 @@ int main() {
   int choix;
   cout << "****** Gestion d'une station Vélô ******" << endl << endl;
   cout << "-----------------------------------------" << endl;
-  // Partie à compléter 3.1
+  cout << " Vélos disponibles : 20\n";
+  cout << " Points d'attache disponibles\n";
   cout << "-----------------------------------------" << endl << endl;
   cout << "1. Emprunter un vélô électrique" << endl;
   cout << "2. Restituer un vélô électrique" << endl;
@@ -16,3 +17,9 @@ int main() {
   
   return 0;
 }
+
+
+
+
+
+//token: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
